@@ -1,0 +1,99 @@
+.feed-main{
+    box-shadow: 0px 10px 5px lightblue;
+    min-height: 100vh;
+}
+
+.wrap-feed{
+    box-shadow: 5px 5px 15px #ddd;
+    padding-bottom: 10px;
+    padding-right: 10px;
+}
+
+.tweet {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ddd;
+}
+  
+.tweet img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.wrap-treding{
+    min-height: 100vh;
+}
+
+.feed {
+    margin-top: 20px;
+}
+
+.trending-tweet{
+    padding-left: 5px;
+}
+
+.trend{
+    min-height: 50vh;
+    background: #F5F8F9;
+    padding: 1px 5px;
+    margin: 8px 0px 0px 15px;
+    border-radius: 10px;
+}
+
+.trend-text{
+    margin: 10px 0px;
+}
+
+.trend-news{
+    border: 1px solid #ccdded;
+    padding: 10px;
+    display: flex;
+}
+
+.trend-news img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.news-headline{
+    margin: 0px;
+}
+
+.form-inline{
+    margin-top: 20px;
+}
+
+.form-control{
+    width: 100% !important;
+    background: #E6ECF0;
+    border-radius: 20px;
+}
+
+.add-post input{
+    width: 80%;
+    height: 60px;
+    border: none;
+}
+
+.add-post input:focus-visible{
+    outline: none;
+}
+
+.add-post img {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.post-image img{
+    width:100% ;
+    border-radius: 0px;
+    height: 200px;
+    padding-top: 10px;
+}

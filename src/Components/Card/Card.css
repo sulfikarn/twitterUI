@@ -1,0 +1,17 @@
+.card{
+    display: flex;
+    padding: 5px;
+    min-height: 50px;
+    min-width: 100%;
+    background-color: #fff;
+    
+}
+.tweet-text{
+    margin: 0px;
+}
+
+.tweet-icon{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}

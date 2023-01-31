@@ -1,0 +1,27 @@
+.wrapp-sidebar{
+    border-right: 1px solid #ddd;
+    min-height: 100vh;
+}
+
+.sidebar {
+    margin-top: 20px;
+}
+
+.menu-active{
+    color: #1DA0F1;
+}
+
+.list-group-item{
+    border: none;
+    padding: 10px 0px;
+  }
+.icon{
+    padding-right: 5px;
+}
+
+.logo{
+    padding-bottom: 10px;
+}
+.logo img{
+    width: 20%;
+}
